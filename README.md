@@ -1,4 +1,4 @@
-### Daily-Record
+### Welcome! :innocent:
 **WQY daily record**
 
-:+1: it's ready to run! :shipit:
+:+1: He's ready to run! :shipit:
