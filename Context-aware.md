@@ -1,7 +1,16 @@
 # GNSS Context-aware
 __For studies in GNSS context-aware__
 ### Airticals
-**1.城市分类场景的GNSS 伪距随机模型构建及其定位性能分析**</br>
+|name|decription|
+|:-----|:---------|
+|城市分类场景的GNSS 伪距随机模型构建及其定位性能分析|- [x]     将场景划分为|
+
+
+**1.城市分类场景的GNSS 伪距随机模型构建及其定位性能分析**    
+- [ ] read
+- [ ] indicator analysis
+
+
 GNSS Pseudorange Stochastic Model for Urban Classification Scenes and Its Positioning Performance
 ![image](https://github.com/Withoutwaxwqy/Daily-Record/assets/42163472/88126de5-6c3c-4be7-bd0f-448a8300e509)    
 
@@ -19,8 +28,17 @@ Research on GNSS/INS Integrated Positioning Method for Urban Environment Based o
 
 ![image](https://github.com/Withoutwaxwqy/Daily-Record/assets/42163472/4bf7d779-fc74-459a-983e-762b837a5437)    
 比较新颖的点在于***卫星方位角空缺度***，这个衡量标准在其他地方也见到过。
+![image](https://github.com/Withoutwaxwqy/Daily-Record/assets/42163472/80b067d0-e4d2-4de5-bbb9-b37ca28f1d51)
 
 
-### SVM
+### 分类算法
+- SVM
 支持向量机（英语：support vector machine，常简称为SVM，又名支持向量网络）是在分类与回归分析中分析数据的监督式学习模型与相关的学习算法。   
 公式见于[知乎SVM](https://zhuanlan.zhihu.com/p/49331510)   
+
+- KMeans    
+聚类是在事先并不知道任何样本标签的情况下，通过数据之间的内在关系把样本划分为若干类别，使得同类别样本之间的相似度高，不同类别之间的样本相似度低   
+
+
+### 区分树荫和高架下场景
+树荫可能是较长时间段的一段信号质量差周跳多，卫星在改方位上可能跳动的比较频繁，但是高架下，应该就接近于完全遮挡的环境
