@@ -13,11 +13,11 @@ Quality analysis of GNSS data based on TEQC in different environments
 **3.基于场景检测的城市环境 GNSS/INS组合定位方法研究**    
 Research on GNSS/INS Integrated Positioning Method for Urban Environment Based on Context Aware    
 论文将场景分为**室内外和室外有无遮挡**。    
-第一阶段：场景建模训练阶段
-![image](https://github.com/Withoutwaxwqy/Daily-Record/assets/42163472/e874581b-ceb1-43da-a385-62c20c2925f5)
-第二阶段：
+第一阶段：场景建模训练阶段   
+![image](https://github.com/Withoutwaxwqy/Daily-Record/assets/42163472/e874581b-ceb1-43da-a385-62c20c2925f5)   
+第二阶段：   
 
-![image](https://github.com/Withoutwaxwqy/Daily-Record/assets/42163472/4bf7d779-fc74-459a-983e-762b837a5437)
+![image](https://github.com/Withoutwaxwqy/Daily-Record/assets/42163472/4bf7d779-fc74-459a-983e-762b837a5437)    
 比较新颖的点在于***卫星方位角空缺度***，这个衡量标准在其他地方也见到过。
 
 
