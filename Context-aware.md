@@ -1,4 +1,4 @@
-# GNSS Context-aware
+# GNSS Context-aware Theory
 __For studies in GNSS context-aware__
 ### Airticals
 |name|decription|
