@@ -7,6 +7,18 @@
 - [ ] [add classification analysis in QNE algorithm](#add-classification-analysis-in-qne-algorithm)
 
 ## select indicators   
+|indicators|status|
+|------------|----|
+|cycleSlipratio|**ready** 🎉|
+|average CN0 & CN0 cnt|**ready** 🎉|
+|average Elevation|**ready** 🎉|
+|vis satellite num|need to **add**|
+|DOP|**ready** 🎉|
+|[unvis angle](https://github.com/Withoutwaxwqy/Daily-Record/blob/main/Context-aware.md#airticals)|UNDO|
+|MP etc.||
+
+
+
 add `debug` message in post-processing algorithm.
 format as 
 ```
