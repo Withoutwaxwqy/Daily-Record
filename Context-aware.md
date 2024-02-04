@@ -38,6 +38,8 @@ Research on GNSS/INS Integrated Positioning Method for Urban Environment Based o
 
 
 ### 分类算法
+![image](https://github.com/Withoutwaxwqy/Daily-Record/blob/main/picture/different%20classfication%20method.png)
+
 - SVM
 支持向量机（英语：support vector machine，常简称为SVM，又名支持向量网络）是在分类与回归分析中分析数据的监督式学习模型与相关的学习算法。   
 公式见于[知乎SVM](https://zhuanlan.zhihu.com/p/49331510)   
