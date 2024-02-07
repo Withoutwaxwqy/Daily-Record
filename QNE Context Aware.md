@@ -10,8 +10,10 @@
 |indicators|status|
 |------------|----|
 |cycleSlipratio|**ready** 🎉|
-|average CN0 & CN0 cnt|**ready** 🎉|
+|average CN0 |**ready** 🎉|
 |average Elevation|**ready** 🎉|
+|valid carrier phase number|**ready** 🎉|
+|average Elevation of valid carrier phase|**ready** 🎉|
 |vis satellite num|~~need to **add**~~ use `int n ` as vis satellite num|
 |DOP|**ready** 🎉|
 |[unvis angle](https://github.com/Withoutwaxwqy/Daily-Record/blob/main/Context-aware.md#airticals)|UNDO|
