@@ -13,7 +13,7 @@
 |average CN0 |**ready** 🎉|
 |average Elevation|**ready** 🎉|
 |valid carrier phase number|**ready** 🎉|
-|average Elevation of valid carrier phase|**ready** 🎉|
+|**average Elevation of valid carrier phase**</br>   which is the most intuitive|**ready** 🎉|
 |vis satellite num|~~need to **add**~~ use `int n ` as vis satellite num|
 |DOP|**ready** 🎉|
 |[unvis angle](https://github.com/Withoutwaxwqy/Daily-Record/blob/main/Context-aware.md#airticals)|UNDO|
@@ -41,3 +41,5 @@ To get these indicators, calculation is needed if no value in the algorithm.
 ## statitics analysis
 
 ## add classification analysis in QNE algorithm
+:arrow_forward:`2024/2/19 ` confirm that the average elevation of valid carrier phase can be regarded as a important indicator to judge weather the vihecle is under elevated or in boulevard 
+
